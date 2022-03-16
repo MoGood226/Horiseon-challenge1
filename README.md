@@ -17,5 +17,5 @@ To clean up the code for the following website and to make it easy to read and f
 
 ## Credit
 
--Thank you to the TA's and fellow classmates for helping me understand the project and help me with it in office hours.
+- Thank you to the TA's and fellow classmates for helping me understand the project and help me with it in office hours.
 - Professional README Guide https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
